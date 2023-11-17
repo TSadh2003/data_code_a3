@@ -4,7 +4,7 @@ This program converts MIDI inputs and determines the musical chords being played
 # Installation
 To be able to access this program, Python3 and pip need to be installed on the computer.
 
-Then install Pychord, Mido, and Tkinter
+Then install Pychord, Mido, and Tkinter through terminal.
 ```bash
 pip install pychord
 ```
