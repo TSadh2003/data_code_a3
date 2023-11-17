@@ -9,7 +9,7 @@ python3 /Users/ ... /chord_detector.py
 ```
 A MIDI keyboard has to be plugged into the computer before launching the program
 
-# Data and Code A3
+# Data and Code A3 Submission
 Thomas Sadhani
 
 24430199
