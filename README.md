@@ -9,7 +9,7 @@ Then install Pychord, Mido, and Tkinter
 pip install pychord
 ```
 ```bash
- pip install mido python-rtmidi
+pip install mido python-rtmidi
 ```
 ```bash
 pip install tk
